@@ -1,0 +1,19 @@
+[13-Jan-2015 16:48:03 Europe/Sofia] PHP Fatal error:  Call to undefined function lang() in /home/goldenca/public_html/application/views/index.php on line 47
+[13-Jan-2015 16:48:56 Europe/Sofia] PHP Fatal error:  Call to undefined function lang() in /home/goldenca/public_html/application/views/index.php on line 47
+[13-Jan-2015 16:48:59 Europe/Sofia] PHP Fatal error:  Call to undefined function lang() in /home/goldenca/public_html/application/views/index.php on line 47
+[13-Jan-2015 16:49:58 Europe/Sofia] PHP Fatal error:  Call to undefined function lang() in /home/goldenca/public_html/application/views/index.php on line 47
+[13-Jan-2015 16:49:59 Europe/Sofia] PHP Fatal error:  Call to undefined function lang() in /home/goldenca/public_html/application/views/index.php on line 47
+[13-Jan-2015 16:50:04 Europe/Sofia] PHP Fatal error:  Call to undefined function lang() in /home/goldenca/public_html/application/views/index.php on line 47
+[13-Jan-2015 16:50:07 Europe/Sofia] PHP Fatal error:  Call to undefined function lang() in /home/goldenca/public_html/application/views/index.php on line 47
+[13-Jan-2015 16:50:16 Europe/Sofia] PHP Fatal error:  Call to undefined function lang() in /home/goldenca/public_html/application/views/index.php on line 47
+[13-Jan-2015 16:50:24 Europe/Sofia] PHP Fatal error:  Call to undefined function lang() in /home/goldenca/public_html/application/views/index.php on line 47
+[13-Jan-2015 17:50:14 Europe/Sofia] PHP Fatal error:  Call to undefined method CI_Lang::switch_uri() in /home/goldenca/public_html/application/views/index.php on line 54
+[13-Jan-2015 17:50:15 Europe/Sofia] PHP Fatal error:  Call to undefined method CI_Lang::switch_uri() in /home/goldenca/public_html/application/views/index.php on line 54
+[13-Jan-2015 17:52:53 Europe/Sofia] PHP Fatal error:  Call to undefined method CI_Lang::switch_uri() in /home/goldenca/public_html/application/views/index.php on line 54
+[13-Jan-2015 17:52:54 Europe/Sofia] PHP Fatal error:  Call to undefined method CI_Lang::switch_uri() in /home/goldenca/public_html/application/views/index.php on line 54
+[13-Jan-2015 20:13:56 Europe/Sofia] PHP Fatal error:  Function name must be a string in /home/goldenca/public_html/application/controllers/index.php on line 13
+[13-Jan-2015 20:13:57 Europe/Sofia] PHP Fatal error:  Function name must be a string in /home/goldenca/public_html/application/controllers/index.php on line 13
+[13-Jan-2015 20:13:58 Europe/Sofia] PHP Fatal error:  Function name must be a string in /home/goldenca/public_html/application/controllers/index.php on line 13
+[13-Jan-2015 20:22:02 Europe/Sofia] PHP Warning:  Unterminated comment starting line 163 in /home/goldenca/public_html/application/config/config.php on line 163
+[16-Jan-2015 09:41:05 Europe/Sofia] PHP Parse error:  syntax error, unexpected 'images' (T_STRING) in /home/goldenca/public_html/application/language/bulgarian/about_lang.php on line 357
+[16-Jan-2015 09:51:11 Europe/Sofia] PHP Parse error:  syntax error, unexpected 'mailto' (T_STRING) in /home/goldenca/public_html/application/language/bulgarian/about_lang.php on line 438
